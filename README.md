@@ -67,12 +67,15 @@ X-squared = 7.3173, df = 2, p-value = 0.02577
 
 Мы получили значение p-value < 0.05. Это означает, что, действительно, конструкции "без удержу, без умолку, без устали" чаще всего встречаются в художественных текстах, а не в каких либо других.
 ### Графики
-## Общая ситуация.
-![Все]https://github.com/headshoter13/Grammatical-constractions/raw/master/graphs/sphere/Rplot%20ALL.png
-## 1."без удержу"
+# Общая ситуация.
+![Все](https://github.com/headshoter13/Grammatical-constractions/raw/master/graphs/sphere/Rplot%20ALL.png)
+# 1."без удержу"
 ![Без удержу](https://github.com/headshoter13/Grammatical-constractions/raw/master/graphs/sphere/без%20удержу.png)
-## 2. "Без умолку"
+# 2. "Без умолку"
 ![Без умолку](https://github.com/headshoter13/Grammatical-constractions/raw/master/graphs/sphere/без%20умолку.png)
-## 3. "Без устали"
+# 3. "Без устали"
 ![Без устали](https://github.com/headshoter13/Grammatical-constractions/raw/master/graphs/sphere/без%20устали.png)
+
+### Корреляция со временем.
+![ddd](https://github.com/headshoter13/Grammatical-constractions/raw/master/graphs/sphere/без%20умолку%20год.png)
 
