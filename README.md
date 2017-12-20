@@ -77,5 +77,12 @@ X-squared = 7.3173, df = 2, p-value = 0.02577
 ![Без устали](https://github.com/headshoter13/Grammatical-constractions/raw/master/graphs/sphere/без%20устали.png)
 
 ### Корреляция со временем.
-![ddd](https://github.com/headshoter13/Grammatical-constractions/raw/master/graphs/sphere/без%20умолку%20год.png)
+# Без умолку
+![удержи](https://github.com/headshoter13/Grammatical-constractions/raw/master/graphs/sphere/без%20умолку%20год.png)
+Видно, что основная популярность пришлась на 2003-2004 года. А до этого времени и после эта конструкция не была особо популярна.
+# Без удержу
+![удержу](https://github.com/headshoter13/Grammatical-constractions/raw/master/graphs/sphere/uderzhuuuuu.png)
+# Без устали
+![устали](https://github.com/headshoter13/Grammatical-constractions/raw/master/graphs/sphere/ustaliiii.png)
+
 
